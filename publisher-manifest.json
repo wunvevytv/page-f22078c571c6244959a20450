@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ad23b02056181b29738b46f2",
+  "owner": "wunvevytv",
+  "repo": "page-f22078c571c6244959a20450",
+  "title": "Lilt",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f22078c571c6244959a20450",
+      "a": "Lilt",
+      "b": "2027最新官网",
+      "entity": "Lilt",
+      "brand": "Lilt",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "27f4c7ed46c2682406f5f955ee8d3e3815128fcf3855f84ae338b0755e1c3069",
+      "content": {
+        "primary_entity": "Lilt",
+        "keyword1": "Lilt",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，Windows、macOS、iOS、Android 与路由器均有对应配置方式。",
+          "AI_CLIENTS_TITLE": "客户端与设备",
+          "AI_CLOSING_TEXT": "对比设备数量与月流量，选择适合的套餐即可开始配置订阅。",
+          "AI_CLOSING_TITLE": "选好套餐，顺畅连接",
+          "AI_DESCRIPTION": "，Lilt 提供基础版、旗舰版与团队版三档订阅，分别覆盖 3 台、5 台与 20 台设备同时在线，月流量从 100GB 到 1000GB 不等，可按月或按年支付。旗舰版与团队版分别提供 IPLC 专线与 VIP 高带宽节点，适合游戏加速与多人共享。",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求与订阅周期三个角度选择 Lilt 套餐。",
+          "AI_FEATURES_TITLE": "按需求选套餐",
+          "AI_FEATURE_TEXT_1": "基础版供 3 台设备使用，旗舰版 5 台，团队版可 20 台同时在线。",
+          "AI_FEATURE_TEXT_2": "月流量从 100GB 到 1000GB 分档，团队版还支持企业定制路由。",
+          "AI_FEATURE_TEXT_3": "按月付费灵活，按年付仅需 ¥150、¥350 或 ¥850，长期使用更合适。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "流量与线路",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "选服务、看适配、配订阅，三步完成 Lilt 连接准备。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "Lilt 是面向海外访问的加速服务，提供基础版、旗舰版与团队版三档订阅，覆盖不同设备数量与流量需求。按客户端文档导入订阅后，即可在电脑、手机或路由器上使用。",
+          "AI_HERO_SUBTITLE": "多设备订阅，轻松加速",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏加速",
+          "AI_HIGHLIGHT_3": "按年付最低 ¥150 起",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按设备数量与流量选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月流量，在基础版、旗舰版和团队版之间做出选择。",
+          "AI_STEP_TEXT_2": "确认系统版本与网络环境满足所选客户端的运行要求，再准备订阅信息。",
+          "AI_STEP_TEXT_3": "按对应客户端文档导入订阅，保存后即可开始使用 Lilt 加速。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Lilt 海外加速",
+          "AI_FAQ_ANSWER_1": "基础版 100GB/月，旗舰版 300GB/月，团队版 1000GB/月。日常浏览选基础版即可；经常看高清视频或玩游戏可选旗舰版；多人共享或团队使用选团队版更合适。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。如果手机、电脑、平板需要同时使用，建议按实际设备数选择对应套餐。",
+          "AI_FAQ_ANSWER_3": "可以。年付方案更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。订阅周期按自然月或自然年计算，具体以购买时显示的周期为准。",
+          "AI_FAQ_ANSWER_4": "旗舰版包含 IPLC 专线并针对游戏加速优化，团队版提供 VIP 专属高带宽节点。基础版为普通线路节点池，适合日常浏览与普通视频场景。",
+          "AI_FAQ_ANSWER_5": "购买后你会获得 Lilt 订阅链接，在所选客户端中导入该链接即可使用。不同客户端的导入位置不同，建议查看对应客户端的订阅导入说明。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐周期。",
+          "AI_FAQ_QUESTION_1": "Lilt 各套餐的月流量是多少？",
+          "AI_FAQ_QUESTION_2": "每个套餐支持多少台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "可以按年付费吗？价格是多少？",
+          "AI_FAQ_QUESTION_4": "旗舰版和团队版在节点方面有什么优势？",
+          "AI_FAQ_QUESTION_5": "购买后如何导入 Lilt 订阅？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kq614b068a.com",
+    "host": "xn--9kq614b068a.com"
+  },
+  "file_hashes": {
+    "index.html": "75d3ff77732af689fb8c15841e5df6a867cf9d3cb3a3d80ba3d80f57d062628c",
+    "sitemap.xml": "7a52173f2427cf6a64994bcec4539e76c5f3dc45e7790f68ceb3128ee3144d8f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3fc0660d68d8661366e3af5d72c481cac7a79c7f01e5124ad50633ae753eab66",
+    "robots.txt": "e601dfd96a38b8d26729ad4e2cb4fb11be29de0addba6a5aa4648c67875b8b04",
+    "ccc2bcae90f2e976bc25d77425b0f46d.txt": "8efdf3d8a6a7aabfaa140f107368322fcb14691d7b2e9f2a0d5fd99ccbd70edc"
+  },
+  "revision": "f6d585bab50c0025969efefc4943213f4d784b915951101ae9e9515224896c46"
+}
